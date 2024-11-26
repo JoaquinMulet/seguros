@@ -11,7 +11,7 @@ import {
   Icon,
   Avatar,
 } from '@chakra-ui/react';
-import { Select, chakraComponents } from 'chakra-react-select';
+import { Select } from 'chakra-react-select';
 import { FiSend } from 'react-icons/fi';
 import axios from 'axios';
 
